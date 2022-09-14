@@ -210,9 +210,9 @@ hr{
     }
 }
 /* Tablet Devices */
-@media only screen and (min-width:688px) and (max-width:992px){
+@media only screen and (min-width:689px) and (max-width:992px){
     .head-navigation{
-        width: 98%;
+        width: 97%;
     }
     .container{
         width: 90%;
